@@ -1,4 +1,6 @@
 # Stellar-Classification
+![image](https://github.com/gulerkandeger/Stellar-Classification/assets/77187949/c6dc9949-cea7-4b5b-b84d-f4cf2f6d2b21)
+
 #### Projenin Amacı
 Bu proje, yıldızların gözlemlenen özellikleri kullanılarak yıldızları belirli sınıflara 
 ayırmak için makine öğrenmesi modeli geliştirmeyi amaçlar. Yıldızların sınıflandırılması genellikle 
