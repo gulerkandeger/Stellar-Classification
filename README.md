@@ -24,6 +24,6 @@ Bu projede 'Stellar' veri seti kullanılmıştır.
 * Model başarı ölçümü için confusion matrix ve accuracy score kullanıldı.
 #### Sonuç
 Modellerin accuracy değerleri şu şekildedir ; <br>
-Decision Tree Accuracy : 0.8665151515151515 <br>
+Decision Tree Accuracy : 0.9021515151515151 <br>
 Random Forest Accuracy : 0.9568181818181818
 ###### Buradan bu veri seti için Random Forest'in daha güçlü bir model olduğu sonucuna varılmıştır.
