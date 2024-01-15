@@ -1,4 +1,4 @@
-# Stellar-Classification
+# Stellar Classification
 ![image](https://github.com/gulerkandeger/Stellar-Classification/assets/77187949/c6dc9949-cea7-4b5b-b84d-f4cf2f6d2b21)
 
 #### Projenin Amacı
